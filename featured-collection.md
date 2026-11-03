@@ -26,7 +26,7 @@
 
 image: https://www.hancockcollege.edu/library/_images/discovery/hispamcoll.png
 alt: Hispanic American Heritage Collection
-link: https://caccl-ahc.primo.exlibrisgroup.com/nde/collectionDiscovery?collectionId=81120680550005262&vid=01CACCL_AHC:01CACCL_AHC_NDE&lang=en
+link: https://caccl-ahc.primo.exlibrisgroup.com/nde/collectionDiscovery?collectionId=81120680550005262&vid=01CACCL_AHC:TEST&lang=en&lang=en
 cta: Explore the collection
 
 A curated collection highlighting Hispanic American history, culture, and contributions.
