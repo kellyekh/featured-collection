@@ -24,9 +24,9 @@
 
 ## Let's Celebrate!
 
-image: https://www.hancockcollege.edu/library/_images/discovery/hispamcoll.png
-alt: Hispanic American Heritage Collection
-link: https://caccl-ahc.primo.exlibrisgroup.com/nde/collectionDiscovery?collectionId=81120680550005262&vid=01CACCL_AHC:TEST&lang=en&lang=en
+image: https://www.hancockcollege.edu/library/_images/discovery/Poetry_Collection.png
+alt: Poetry Collection
+link: https://caccl-ahc.primo.exlibrisgroup.com/nde/collectionDiscovery?collectionId=81124318000005262&vid=01CACCL_AHC:TEST&lang=en&lang=en
 cta: Explore the collection
 
-A curated collection highlighting Hispanic American history, culture, and contributions.
+A collection of AHC library books of poetry ranging from ancient to contemporary.
