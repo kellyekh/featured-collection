@@ -22,7 +22,7 @@
   Only the first "##" heading in this file is used.
 -->
 
-## Let's Celebrate!
+## Hark! 'Tis poetry!
 
 image: https://www.hancockcollege.edu/library/_images/discovery/Poetry_Collection.png
 alt: Poetry Collection
